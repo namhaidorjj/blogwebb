@@ -1,7 +1,9 @@
 import React from "react";
 
 export const Header = () => {
-  return <div>
-    <div></div>
-  </div>;
+  return (
+    <div>
+      <div className="flex flex-col"></div>
+    </div>
+  );
 };
